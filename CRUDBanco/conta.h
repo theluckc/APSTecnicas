@@ -16,6 +16,5 @@ typedef struct Conta{
 
 void depositar(TConta conta,float valor);
 int debitar(TConta conta, float quantia);
-int transferir(TConta origem, TConta destino,
-float quantia);
+int transferir(TConta origem, TConta destino, float quantia);
 void imprimirConta(TConta conta);
