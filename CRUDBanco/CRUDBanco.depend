@@ -1,6 +1,21 @@
 # depslib dependency file v1.0
-1571879016 source:c:\users\guilhermesantos\documents\faculdadeprojetos\apstecninas\crudbanco\main.c
+1571959604 source:c:\users\guilhermesantos\documents\faculdadeprojetos\apstecninas\crudbanco\main.c
 	<stdio.h>
 	<stdlib.h>
 	<locale.h>
+	<windows.h>
+	"banco.h"
+	"conta.h"
+	"gerenciaCliente.h"
+
+1571927871 c:\users\guilhermesantos\documents\faculdadeprojetos\apstecninas\crudbanco\banco.h
+	"conta.h"
+
+1571959117 c:\users\guilhermesantos\documents\faculdadeprojetos\apstecninas\crudbanco\conta.h
+	"cliente.h"
+
+1571927872 c:\users\guilhermesantos\documents\faculdadeprojetos\apstecninas\crudbanco\cliente.h
+
+1571959460 c:\users\guilhermesantos\documents\faculdadeprojetos\apstecninas\crudbanco\gerenciacliente.h
+	"cliente.h"
 

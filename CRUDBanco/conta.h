@@ -6,6 +6,7 @@ typedef struct Data{
     int mes;
     int ano;
 }TData;
+
 typedef struct Conta{
     int numero;
     TCliente cliente;
